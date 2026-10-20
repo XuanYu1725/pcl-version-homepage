@@ -31,3 +31,5 @@ http://127.0.0.1:8087/homepage.xaml
 ?snapshots=10   预览版列出多少条
 ?loaders=0      关掉加载器按钮
 ```
+
+各版本客户端与加载器的官方下载来源见 [downloads.md](downloads.md)。
